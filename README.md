@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jessicacss
 - 👀 I’m interested in work with programming
-- 🌱 I’m currently learning SPRING BOOT
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jcord876@gmail.com/(83)994115167
 
